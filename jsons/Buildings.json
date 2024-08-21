@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"name": "Silo subterráneo",
+		"replaces": "Granary",
+		"uniqueTo": "Físicos",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
