@@ -10,12 +10,12 @@
 		"maintenance": 96,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding
+		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Canales de riego",
+		"name": "Breeders",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Físicos",
+		"uniqueTo": "Aliens",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
