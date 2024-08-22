@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Holodeck",
+		"name": "Epicentro de felicidad",
 		"replaces": "Circus Maximus",
 		"uniqueTo": "Fisicos",
 		"cost": 480,
@@ -13,7 +13,7 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
+		"name": "bomba de agua a presión",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Fisicos",
 		"cost": 80,
