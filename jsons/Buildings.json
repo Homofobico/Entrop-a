@@ -21,5 +21,14 @@
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
+	}, 
+	{
+		"name": "free shop del chuy",
+		"uniqueTo": "Fisicos",
+		"cost": 0,
+		"Science": -5,
+		"happiness": 3,
+		"gold": 20,
+		"requiredTech": "Mathematics"
 	}
 ]
