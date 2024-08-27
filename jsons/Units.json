@@ -1,16 +1,15 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Práctico de física",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
+		"uniqueTo": "fisicos",
+		"replaces": "Composite bowman",
+		"movement": 3,
+		"strength": 10,
+		"rangedStrength": 12,
 		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"cost": 400,
+		"requiredTech": "Construction",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
