@@ -36,7 +36,7 @@
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	},
 	{
-	"name": "Fisicos 2",
+	        "name": "Fisicos 2",
 		"leaderName": "Walter Modernell II",
 		"adjective": ["El pendejo"],
 		"startBias": ["Tundra, Desert"],
@@ -70,9 +70,9 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell","Q'Dhihien","Q'Naquiel"]
 	
-			},
+       },
 		{	
-	  "name": "Fisicos 3",
+	        "name": "Fisicos 3",
 		"leaderName": "Walter Modernell II",
 		"adjective": ["El pendejo"],
 		"startBias": ["Tundra, Desert"],
