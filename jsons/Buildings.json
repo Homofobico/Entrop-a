@@ -28,7 +28,9 @@
 	}, 
 	{
 		"name": "free shop del chuy",
-		"uniqueTo": "Fisicos 1", "Fisicos 2", "Fisicos 3",
+		"uniqueTo": "Fisicos 1",
+		"unqiueTo": "Fisicos 2", 
+		"uniqueTo": "Fisicos 3",
 		"cost": 0,
 		"science": -5,
 		"happiness": 3,
