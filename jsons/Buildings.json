@@ -2,7 +2,7 @@
 	{
 		"name": "Epicentro de felicidad",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Fisicos",
+		"uniqueTo": "Fisicos 1, Fisicos 2, Fisicos 3",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
@@ -15,7 +15,7 @@
 	{
 		"name": "bomba de agua a presión",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Fisicos",
+		"uniqueTo": "Fisicos 1, Fisicos 2, Fisicos 3",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
@@ -24,7 +24,7 @@
 	}, 
 	{
 		"name": "free shop del chuy",
-		"uniqueTo": "Fisicos",
+		"uniqueTo": "Fisicos 1, Fisicos 2, Fisicos 3",
 		"cost": 0,
 		"science": -5,
 		"happiness": 3,
