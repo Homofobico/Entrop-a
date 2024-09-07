@@ -2,7 +2,7 @@
 	{
 		"name": "Epicentro de felicidad",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Fisicos 1","Fisicos 2", "Fisicos 3",
+		"uniqueTo": "Fisicos 1", "Fisicos 2", "Fisicos 3",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
