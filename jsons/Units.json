@@ -2,7 +2,7 @@
 	{
 		"name": "Práctico de física",
 		"unitType": "Ranged",
-		"uniqueTo": "Fisicos 1, Fisicos 2, Fisicos 3",
+		"uniqueTo": "Fisicos 1", "Fisicos 2", "Fisicos 3",
 		"replaces": "Composite Bowman",
 		"movement": 3,
 		"strength": 10,
