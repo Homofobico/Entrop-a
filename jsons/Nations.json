@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Fisicos",
+		"name": "Fisicos 1",
 		"leaderName": "Walter Modernell II",
 		"adjective": ["El pendejo"],
 		"startBias": ["Tundra, Desert"],
@@ -35,4 +35,76 @@
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
+	{
+	"name": "Fisicos 3",
+		"leaderName": "Walter Modernell II",
+		"adjective": ["El pendejo"],
+		"startBias": ["Tundra, Desert"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Saludos, persona inferior",
+		"startIntroPart2": "¿Me pasas un e?",
+		
+		"declaringWar": "Prepárate para mi juicio final",
+		"attacked": "Los electrones indican que no deberías atacarme",
+		"defeated": "Has pasado el examen...",
+		"introduction": "Dominamos las leyes de la física. Apártense, inferiores.",
+		
+		"neutralHello": "HOLA",
+		"neutralLetsHearIt": ["Mercurio está retrógrado. Señal que tenemos que negociar."],
+		"neutralNo": ["Tu hipótesis no es correcta."],
+		"neutralYes": ["Aprobado."],
+
+		"hateHello": "¿Qué?",
+		"hateLetsHearIt": ["Habla ahora o te quitaré las neuronas."],
+		"hateNo": ["ESTAMOS FÍSICAMENTE EN DESACUERDO"],
+		"hateYes": ["ESTÁ BIEN, HDP."],
+		
+		"afterPeace": "La paz es godd.",
+		"tradeRequest": "no podrás rechazar este intercambio, pete.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["el ciencias","PT","E","3.1415","x","+","-","Q'Vronens","Q'Aerlae",
+			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell","Q'Dhihien","Q'Naquiel
+        }
+	{		
+	  "name": "Fisicos 3",
+		"leaderName": "Walter Modernell II",
+		"adjective": ["El pendejo"],
+		"startBias": ["Tundra, Desert"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Saludos, persona inferior",
+		"startIntroPart2": "¿Me pasas un e?",
+		
+		"declaringWar": "Prepárate para mi juicio final",
+		"attacked": "Los electrones indican que no deberías atacarme",
+		"defeated": "Has pasado el examen...",
+		"introduction": "Dominamos las leyes de la física. Apártense, inferiores.",
+		
+		"neutralHello": "HOLA",
+		"neutralLetsHearIt": ["Mercurio está retrógrado. Señal que tenemos que negociar."],
+		"neutralNo": ["Tu hipótesis no es correcta."],
+		"neutralYes": ["Aprobado."],
+
+		"hateHello": "¿Qué?",
+		"hateLetsHearIt": ["Habla ahora o te quitaré las neuronas."],
+		"hateNo": ["ESTAMOS FÍSICAMENTE EN DESACUERDO"],
+		"hateYes": ["ESTÁ BIEN, HDP."],
+		
+		"afterPeace": "La paz es godd.",
+		"tradeRequest": "no podrás rechazar este intercambio, pete.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["el ciencias","PT","E","3.1415","x","+","-","Q'Vronens","Q'Aerlae",
+			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel
+			}
 ]
+		
