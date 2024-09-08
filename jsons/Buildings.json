@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Epicentro de felicidad",
+		"name": "Epicentro de felicidad 1",
 		"replaces": "Circus Maximus",
 		"uniqueTo": "Fisicos 1",
 		"cost": 480,
@@ -13,7 +13,7 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "bomba de agua a presión",
+		"name": "bomba de agua a presión 1",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Fisicos 1", 
 		"cost": 80,
@@ -24,7 +24,7 @@
 	}, 
 	
 	{
-		"name": "Epicentro de felicidad",
+		"name": "Epicentro de felicidad 2",
 		"replaces": "Circus Maximus",
 		"uniqueTo": "Fisicos 2",
 		"cost": 480,
@@ -37,7 +37,7 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "bomba de agua a presión",
+		"name": "bomba de agua a presión 2",
 		"replaces": "Aqueduct", 
 		"uniqueTo": "Fisicos 2",
 		"cost": 80,
@@ -48,7 +48,7 @@
 	}, 
 	
 	{
-		"name": "Epicentro de felicidad",
+		"name": "Epicentro de felicidad 3",
 		"replaces": "Circus Maximus",
 		"uniqueTo": "Fisicos 3",
 		"cost": 480,
@@ -61,7 +61,7 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "bomba de agua a presión",
+		"name": "bomba de agua a presión 3",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Fisicos 3",
 		"cost": 80,
@@ -71,7 +71,25 @@
 		"requiredTech": "Engineering"
 	}, 
 	{
-		"name": "free shop del chuy", 
+		"name": "free shop del chuy 1", 
+		"uniqueTo": "Fisicos 1",
+		"cost": 0,
+		"science": -5,
+		"happiness": 3,
+		"gold": 20,
+		"requiredTech": "Mathematics"
+	},
+	{
+	        "name": "free shop del chuy 2", 
+		"uniqueTo": "Fisicos 2",
+		"cost": 0,
+		"science": -5,
+		"happiness": 3,
+		"gold": 20,
+		"requiredTech": "Mathematics"
+	},
+	{
+	        "name": "free shop del chuy 3", 
 		"uniqueTo": "Fisicos 3",
 		"cost": 0,
 		"science": -5,
