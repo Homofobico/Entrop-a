@@ -13,7 +13,8 @@
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	},
-	{
+	
+	// {
 		"name": "One Punch Man",
 		"unitType": "sword",
 		"uniqueTo": "Fisicos 1",
@@ -25,7 +26,7 @@
 		"promotions": ["Sentry"],
 		"attackSound": "phasers"
 		"uniques": ["Strenght doubles each turn"]
-	},
+	// },
 		
 	{
 		"name": "Práctico de física 2",
