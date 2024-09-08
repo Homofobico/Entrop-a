@@ -14,19 +14,7 @@
 		"attackSound": "phasers"
 	},
 	
-	// {
-		"name": "One Punch Man",
-		"unitType": "sword",
-		"uniqueTo": "Fisicos 1",
-		"replaces": "swordsman",
-		"movement": 1,
-		"strength": 1,
-		"cost": 95,
-		"requiredTech": "Iron Working",
-		"promotions": ["Sentry"],
-		"attackSound": "phasers"
-		"uniques": ["Strenght doubles each turn"]
-	// },
+	
 		
 	{
 		"name": "Práctico de física 2",
