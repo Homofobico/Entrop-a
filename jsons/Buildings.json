@@ -3,8 +3,6 @@
 		"name": "Epicentro de felicidad",
 		"replaces": "Circus Maximus",
 		"uniqueTo": "Fisicos 1",
-		"uniqueTo": "Fisicos 2",
-		"uniqueTo": "Fisicos 3",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
@@ -18,7 +16,53 @@
 		"name": "bomba de agua a presión",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Fisicos 1", 
+		"cost": 80,
+		"hurryCostModifier": 160,
+		"happiness": 2,
+		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"requiredTech": "Engineering"
+	}, 
+	
+	{
+		"name": "Epicentro de felicidad",
+		"replaces": "Circus Maximus",
 		"uniqueTo": "Fisicos 2",
+		"cost": 480,
+		"happiness": 12,
+		"culture": 12,
+		"science": 12,
+		"maintenance": 15,
+		"isNationalWonder": true,
+		"requiredBuildingInAllCities": "Colosseum",
+		"requiredTech": "Horseback Riding"
+	},
+	{
+		"name": "bomba de agua a presión",
+		"replaces": "Aqueduct", 
+		"uniqueTo": "Fisicos 2",
+		"cost": 80,
+		"hurryCostModifier": 160,
+		"happiness": 2,
+		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"requiredTech": "Engineering"
+	}, 
+	
+	{
+		"name": "Epicentro de felicidad",
+		"replaces": "Circus Maximus",
+		"uniqueTo": "Fisicos 3",
+		"cost": 480,
+		"happiness": 12,
+		"culture": 12,
+		"science": 12,
+		"maintenance": 15,
+		"isNationalWonder": true,
+		"requiredBuildingInAllCities": "Colosseum",
+		"requiredTech": "Horseback Riding"
+	},
+	{
+		"name": "bomba de agua a presión",
+		"replaces": "Aqueduct",
 		"uniqueTo": "Fisicos 3",
 		"cost": 80,
 		"hurryCostModifier": 160,
@@ -27,9 +71,7 @@
 		"requiredTech": "Engineering"
 	}, 
 	{
-		"name": "free shop del chuy",
-		"uniqueTo": "Fisicos 1",
-		"unqiueTo": "Fisicos 2", 
+		"name": "free shop del chuy", 
 		"uniqueTo": "Fisicos 3",
 		"cost": 0,
 		"science": -5,
