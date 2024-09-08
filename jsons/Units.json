@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Práctico de física",
+		"name": "Práctico de física 1",
 		"unitType": "Ranged",
 		"uniqueTo": "Fisicos 1",
 		"replaces": "Composite Bowman",
@@ -14,7 +14,7 @@
 		"attackSound": "phasers"
 	},
 	{
-		"name": "Práctico de física",
+		"name": "Práctico de física 2",
 		"unitType": "Ranged",
 		"uniqueTo": "Fisicos 2",
 		"replaces": "Composite Bowman",
@@ -28,7 +28,7 @@
 		"attackSound": "phasers"
 	},
 	{
-		"name": "Práctico de física",
+		"name": "Práctico de física 3",
 		"unitType": "Ranged",
 		"uniqueTo": "Fisicos 3",
 		"replaces": "Composite Bowman",
