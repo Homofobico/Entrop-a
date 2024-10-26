@@ -1,1 +1,12 @@
+[
+	//One Punch Man
+	{
+		"name": "Great slap",
+	},
+	{
+		"name": "[One Punch Man] ability",
+		"uniques": ["[+100]% Strength <when attacking>"]
+	},
+	
+]
 
