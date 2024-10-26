@@ -53,7 +53,7 @@
 		"strenght": 10,
 		"cost": 125,
 		"requiredTech": "Iron Working",
-		//"promotions": ["Great slap"],
+		//"promotions": ["Super slap"],
 		"attackSound": "phasers"
 	}
 ]
