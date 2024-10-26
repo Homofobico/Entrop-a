@@ -10,7 +10,7 @@
 		"range": 2,
 		"cost": 125,
 		"requiredTech": "Construction",
-		"promotions": ["Logistics","Accuracy I"],
+		"promotions": ["Logistics","Accuracy I","Super slap"],
 		"attackSound": "phasers"
 	},
 	
