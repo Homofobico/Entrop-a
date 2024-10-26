@@ -53,7 +53,7 @@
 		"strenght": 10,
 		"cost": 125,
 		"requiredTech": "Iron Working",
-		"promotions": ["Logistics","Accuracy I"],
+		//"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
 ]
