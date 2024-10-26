@@ -46,7 +46,7 @@
 	},
 	{
 		"name": "One Punch Man",
-		"unitType": "sword",
+		"unitType": "Sword",
 		"uniqueTo": "Fisicos 1",
 		"replaces": "Swordsman",
 		"movement": 2,
