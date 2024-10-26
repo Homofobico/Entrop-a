@@ -43,5 +43,17 @@
 		"requiredTech": "Construction",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+	},
+	{
+		"name": "One Punch Man",
+		"unitType": "sword",
+		"uniqueTo": "Fisicos 1",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strenght": 10,
+		"cost": 125,
+		"requiredTech": "Iron Working",
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
 	}
 ]
