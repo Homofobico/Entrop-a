@@ -775,6 +775,7 @@
 		"name": "Unable to pillage tiles",
 		"uniques": ["Unable to pillage tiles"]
 	},
+	{
 	"name": "Super slap",
 		"uniques": ["[+100]% Strength <when attacking in [Open terrain] tiles">]
 	}
